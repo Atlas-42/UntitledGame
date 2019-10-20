@@ -1,0 +1,1056 @@
+﻿Log file open, 10/20/19 18:31:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Untitled_Game
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.173987
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: A:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.20-07.31.20:628][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.20-07.31.20:628][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.20-07.31.20:628][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Engine.ini]
+[2019.10.20-07.31.20:628][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.20-07.31.20:628][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.10.20-07.31.20:628][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Engine.ini]
+[2019.10.20-07.31.20:628][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Engine.ini]
+[2019.10.20-07.31.20:628][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.20-07.31.20:628][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.20-07.31.20:628][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.20-07.31.20:628][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.20-07.31.20:628][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.20-07.31.20:628][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.20-07.31.20:628][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.20-07.31.20:628][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.20-07.31.20:628][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.20-07.31.20:628][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.20-07.31.20:628][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.20-07.31.20:628][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.20-07.31.20:628][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.20-07.31.20:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Engine.ini]
+[2019.10.20-07.31.20:629][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.20-07.31.20:629][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.20-07.31.20:629][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.20-07.31.20:629][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.20-07.31.20:629][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.20-07.31.20:629][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.20-07.31.20:629][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.20-07.31.20:629][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.20-07.31.20:629][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.20-07.31.20:629][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.20-07.31.20:629][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.20-07.31.20:629][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.20-07.31.20:629][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.20-07.31.20:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Engine.ini]
+[2019.10.20-07.31.20:629][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Engine.ini]
+[2019.10.20-07.31.20:635][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.20-07.31.20:635][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.20-07.31.20:636][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.20-07.31.20:636][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.20-07.31.20:636][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.20-07.31.20:636][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.20-07.31.20:636][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.20-07.31.20:636][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.20-07.31.20:636][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.20-07.31.20:636][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.20-07.31.20:636][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.20-07.31.20:643][  0]LogHAL: Display: Platform has ~ 16 GB [17105793024 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.20-07.31.20:643][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.20-07.31.20:643][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.20-07.31.20:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.20-07.31.20:644][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Config/Windows/Engine.ini]
+[2019.10.20-07.31.20:644][  0]LogInit: Computer: THENEXUS
+[2019.10.20-07.31.20:644][  0]LogInit: User: Jordan
+[2019.10.20-07.31.20:644][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.20-07.31.20:644][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.20-07.31.20:645][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.20-07.31.20:645][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.20-07.31.20:645][  0]LogMemory: Process Physical Memory: 97.46 MB used, 97.46 MB peak
+[2019.10.20-07.31.20:645][  0]LogMemory: Process Virtual Memory: 91.89 MB used, 91.89 MB peak
+[2019.10.20-07.31.20:645][  0]LogMemory: Physical Memory: 6269.20 MB used,  10044.16 MB free, 16313.36 MB total
+[2019.10.20-07.31.20:645][  0]LogMemory: Virtual Memory: 4632.96 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.10.20-07.31.20:669][  0]LogInit: Using OS detected language (en-GB).
+[2019.10.20-07.31.20:669][  0]LogInit: Using OS detected locale (en-AU).
+[2019.10.20-07.31.20:670][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.10.20-07.31.20:844][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.20-07.31.20:878][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.20-07.31.20:878][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.20-07.31.21:098][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.20-07.31.21:098][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.20-07.31.21:148][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.10.20-07.31.21:148][  0]LogD3D11RHI:       6052/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.10.20-07.31.21:151][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.20-07.31.21:151][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.20-07.31.21:151][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.20-07.31.21:158][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.20-07.31.21:158][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.20-07.31.21:158][  0]LogWindows: EnumDisplayDevices:
+[2019.10.20-07.31.21:158][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.10.20-07.31.21:158][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.10.20-07.31.21:158][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.10.20-07.31.21:159][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.10.20-07.31.21:159][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.20-07.31.21:159][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.10.20-07.31.21:159][  0]LogD3D11RHI:   Driver Version: 436.02 (internal:26.21.14.3602, unified:436.02)
+[2019.10.20-07.31.21:159][  0]LogD3D11RHI:      Driver Date: 8-16-2019
+[2019.10.20-07.31.21:159][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.10.20-07.31.21:195][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.20-07.31.21:204][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.20-07.31.21:205][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.20-07.31.21:205][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.20-07.31.21:213][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.20-07.31.21:591][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.20-07.31.21:602][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.20-07.31.21:615][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.20-07.31.21:628][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.20-07.31.21:640][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.20-07.31.21:651][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.20-07.31.21:663][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.20-07.31.21:676][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.20-07.31.21:682][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.20-07.31.21:756][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.20-07.31.21:756][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.20-07.31.21:756][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.20-07.31.21:756][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.20-07.31.21:756][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.20-07.31.21:756][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.20-07.31.21:756][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.20-07.31.21:756][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.20-07.31.21:756][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.20-07.31.21:756][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.20-07.31.21:756][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.20-07.31.21:756][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.20-07.31.21:756][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.20-07.31.21:756][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.20-07.31.21:756][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.20-07.31.21:756][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.20-07.31.21:756][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.20-07.31.21:756][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.20-07.31.21:758][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.20-07.31.21:804][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.20-07.31.21:804][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.20-07.31.21:826][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.20-07.31.21:826][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.20-07.31.21:837][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.20-07.31.21:849][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.20-07.31.21:860][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.20-07.31.21:872][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.20-07.31.21:912][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.20-07.31.21:912][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.20-07.31.21:912][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.20-07.31.21:919][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.20-07.31.21:958][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Intermediate/Shaders/WorkingDirectory/23456/).
+[2019.10.20-07.31.21:958][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jordan/AppData/Local/Temp/UnrealShaderWorkingDir/BB8820E340EE822B5D9EA28004D78673/'.
+[2019.10.20-07.31.21:959][  0]LogXGEController: Cleaning working directory: C:/Users/Jordan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.20-07.31.21:959][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.20-07.31.21:959][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.20-07.31.21:959][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.20-07.31.22:477][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.20-07.31.22:520][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Jordan/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.20-07.31.22:520][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jordan/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.20-07.31.22:520][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.20-07.31.22:520][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.20-07.31.22:520][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.20-07.31.22:520][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.20-07.31.22:531][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.20-07.31.22:531][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.20-07.31.22:531][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.20-07.31.22:543][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jordan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.20-07.31.22:543][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.20-07.31.22:543][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.20-07.31.22:562][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.20-07.31.22:563][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.20-07.31.22:564][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.20-07.31.22:652][  0]LogAssetRegistry: FAssetRegistry took 0.0328 seconds to start up
+[2019.10.20-07.31.22:957][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.20-07.31.23:079][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.20-07.31.23:079][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.20-07.31.23:079][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.20-07.31.23:079][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.20-07.31.23:079][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.20-07.31.23:089][  0]LogNetVersion: Untitled_Game 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1539792574)
+[2019.10.20-07.31.23:452][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.030230 seconds
+[2019.10.20-07.31.23:459][  0]LogUObjectArray: 42206 objects as part of root set at end of initial load.
+[2019.10.20-07.31.23:459][  0]LogUObjectAllocator: 7325256 out of 0 bytes used by permanent object pool.
+[2019.10.20-07.31.23:459][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.20-07.31.24:335][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.20-07.31.24:349][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.20-07.31.24:455][  0]SourceControl: Source control is disabled
+[2019.10.20-07.31.24:455][  0]SourceControl: Source control is disabled
+[2019.10.20-07.31.24:456][  0]SourceControl: Source control is disabled
+[2019.10.20-07.31.24:457][  0]SourceControl: Source control is disabled
+[2019.10.20-07.31.24:534][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.20-07.31.24:616][  0]LogOcInput: OculusInput pre-init called
+[2019.10.20-07.31.25:393][  0]LogEngine: Initializing Engine...
+[2019.10.20-07.31.25:394][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.20-07.31.25:395][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.20-07.31.25:593][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.20-07.31.25:604][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.20-07.31.25:668][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.20-07.31.25:681][  0]LogInit: FAudioDevice initialized.
+[2019.10.20-07.31.25:681][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.20-07.31.25:833][  0]LogDerivedDataCache: Saved boot cache 0.15s 71MB C:/Users/Jordan/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.20-07.31.25:833][  0]LogInit: Texture streaming: Enabled
+[2019.10.20-07.31.25:847][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.20-07.31.25:847][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={66CB3AE5-42F9-7A25-A705-7BAF382EA53E}
+[2019.10.20-07.31.25:862][  0]LogInit: Transaction tracking system initialized
+[2019.10.20-07.31.25:879][  0]BlueprintLog: New page: Editor Load
+[2019.10.20-07.31.25:939][  0]LocalizationService: Localization service is disabled
+[2019.10.20-07.31.26:200][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Content/' took 0.01s
+[2019.10.20-07.31.26:200][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.20-07.31.26:200][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.20-07.31.26:350][  0]SourceControl: Source control is disabled
+[2019.10.20-07.31.26:350][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.20-07.31.26:350][  0]LightingResults: New page: Lighting Build
+[2019.10.20-07.31.26:352][  0]MapCheck: New page: Map Check
+[2019.10.20-07.31.26:352][  0]LightingResults: New page: Lighting Build
+[2019.10.20-07.31.26:372][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.10.20-07.31.26:405][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.20-07.31.26:410][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.20-07.31.26:436][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.10.20-07.31.26:436][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.20-07.31.26:436][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2019.10.20-07.31.26:436][  0]LogFileHelpers: Loading map 'Template_Default' took 0.087
+[2019.10.20-07.31.26:555][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.20-07.31.26:563][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.20-07.31.26:570][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.20-07.31.26:578][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.20-07.31.26:582][  0]LogCollectionManager: Loaded 0 collections in 0.001136 seconds
+[2019.10.20-07.31.26:597][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Saved/Collections/' took 0.01s
+[2019.10.20-07.31.26:597][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Content/Developers/Jordan/Collections/' took 0.00s
+[2019.10.20-07.31.26:597][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Content/Collections/' took 0.00s
+[2019.10.20-07.31.26:597][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.20-07.31.26:604][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2732 classes and 659 folders.
+[2019.10.20-07.31.26:609][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.20-07.31.26:611][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:612][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:612][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:613][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:613][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:614][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:614][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:615][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:616][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:616][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:617][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:617][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:618][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:619][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:619][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:620][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:621][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:621][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:622][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:622][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:623][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:624][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:624][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:625][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:625][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:626][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.20-07.31.26:667][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.20-07.31.26:671][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.20-07.31.26:689][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.20-07.31.26:690][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.20-07.31.26:694][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.20-07.31.26:752][  0]LogRenderer: Reallocating scene render targets to support 1248x600 Format 10 NumSamples 1 (Frame:1).
+[2019.10.20-07.31.26:865][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.20-07.31.26:865][  0]LogLoad: (Engine Initialization) Total time: 8.08 seconds
+[2019.10.20-07.31.26:865][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.20-07.31.26:895][  0]LogAssetRegistry: Asset discovery search completed in 4.2660 seconds
+[2019.10.20-07.31.26:897][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.20-07.31.26:897][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2019.10.20-07.31.26:903][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.20-07.31.26:924][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.20-07.31.27:880][111]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.20-07.31.28:986][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-07.31.35:111][962]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Jordan/Blueprints/General/Thunder.Thunder
+[2019.10.20-07.31.35:346][962]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.10.20-07.31.36:046][962]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.20-07.31.36:110][963]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.20-07.31.43:626][827]LogAIModule: Creating AISystem for world RoomSpawnerTest
+[2019.10.20-07.31.43:629][827]LogAssetEditorManager: Opening Asset editor for World /Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest
+[2019.10.20-07.31.43:662][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.10.20-07.31.43:663][827]Cmd: MAP LOAD FILE="C:/Users/Jordan/Documents/GitHub/UntitledGame/Untitled_Game/Content/Jordan/Levels/RoomSpawnerTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.20-07.31.43:663][827]LightingResults: New page: Lighting Build
+[2019.10.20-07.31.43:664][827]LoadErrors: New page: Loading map: RoomSpawnerTest.umap
+[2019.10.20-07.31.43:664][827]MapCheck: New page: Map Check
+[2019.10.20-07.31.43:664][827]LightingResults: New page: Lighting Build
+[2019.10.20-07.31.43:692][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.10.20-07.31.43:694][827]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.20-07.31.43:723][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.10.20-07.31.43:736][827]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.20-07.31.43:736][827]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2019.10.20-07.31.43:736][827]LogFileHelpers: Loading map 'RoomSpawnerTest' took 0.073
+[2019.10.20-07.32.03:422][ 95]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Jordan/Blueprints/Rooms/RoomSpawner.RoomSpawner
+[2019.10.20-07.32.25:540][167]LogEditorViewport: Clicking Background
+[2019.10.20-07.32.26:129][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-07.32.26:212][247]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.20-07.32.26:222][247]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.32.26:222][247]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.20-07.32.26:223][247]LogPlayLevel: [PlayLevel] Compiling RoomSpawner before play...
+[2019.10.20-07.32.26:355][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.26:355][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_2.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.26:357][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_1.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.26:362][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_4.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.26:362][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.26:362][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.26:364][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_1.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.26:366][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_1.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.26:379][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_6.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.26:379][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.26:381][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.26:386][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.26:387][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_10.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.26:387][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.26:389][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.26:390][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.26:425][247]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.10.20-07.32.26:425][247]LogPlayLevel: PlayLevel: Blueprint regeneration took 201 ms (1 blueprints)
+[2019.10.20-07.32.26:425][247]PIE: New page: PIE session: RoomSpawnerTest (21 Oct 2019 5:32:26 am)
+[2019.10.20-07.32.26:436][247]LogPlayLevel: Creating play world package: /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest
+[2019.10.20-07.32.26:438][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001147s)
+[2019.10.20-07.32.26:439][247]LogAIModule: Creating AISystem for world RoomSpawnerTest
+[2019.10.20-07.32.26:439][247]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2019.10.20-07.32.26:439][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest to /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest.RoomSpawnerTest (0.002441s)
+[2019.10.20-07.32.26:466][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.10.20-07.32.26:476][247]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.20-07.32.26:484][247]LogInit: FAudioDevice initialized.
+[2019.10.20-07.32.26:494][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.20-07.32.26:540][247]LogLoad: Game class is 'GameModeBase'
+[2019.10.20-07.32.26:541][247]LogWorld: Bringing World /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest.RoomSpawnerTest up for play (max tick rate 0) at 2019.10.20-18.32.26
+[2019.10.20-07.32.26:542][247]LogWorld: Bringing up level for play took: 0.000724
+[2019.10.20-07.32.26:557][247]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.10.20-07.32.26:561][247]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.10.20-07.32.26:561][247]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.20-07.32.26:564][247]PIE: Play in editor start time for /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest 0.961
+[2019.10.20-07.32.26:564][247]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.32.26:579][248]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2019.10.20-07.32.27:066][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_97] 10
+[2019.10.20-07.32.27:066][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_97] Cannot spawn
+[2019.10.20-07.32.27:066][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_97] true
+[2019.10.20-07.32.27:066][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_98] 10
+[2019.10.20-07.32.27:066][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_98] Cannot spawn
+[2019.10.20-07.32.27:066][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_98] true
+[2019.10.20-07.32.27:071][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_101] 10
+[2019.10.20-07.32.27:071][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_101] Cannot spawn
+[2019.10.20-07.32.27:071][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_101] true
+[2019.10.20-07.32.27:079][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_107] 10
+[2019.10.20-07.32.27:079][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_107] Cannot spawn
+[2019.10.20-07.32.27:079][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_107] true
+[2019.10.20-07.32.27:085][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_111] 10
+[2019.10.20-07.32.27:085][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_111] Cannot spawn
+[2019.10.20-07.32.27:085][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_111] true
+[2019.10.20-07.32.27:099][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_119] 10
+[2019.10.20-07.32.27:099][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_119] Cannot spawn
+[2019.10.20-07.32.27:099][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_119] true
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_120] 10
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_120] Cannot spawn
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_120] true
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_121] 10
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_121] Cannot spawn
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_121] true
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_122] 10
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_122] Cannot spawn
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_122] true
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_123] 10
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_123] Cannot spawn
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_123] true
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_124] 10
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_124] Cannot spawn
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_124] true
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_125] 10
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_125] Cannot spawn
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_125] true
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_126] 10
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_126] Cannot spawn
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_126] true
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_127] 10
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_127] Cannot spawn
+[2019.10.20-07.32.27:100][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_127] true
+[2019.10.20-07.32.27:101][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_128] 10
+[2019.10.20-07.32.27:101][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_128] Cannot spawn
+[2019.10.20-07.32.27:101][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_128] true
+[2019.10.20-07.32.27:101][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_129] 10
+[2019.10.20-07.32.27:101][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_129] Cannot spawn
+[2019.10.20-07.32.27:101][248]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_129] true
+[2019.10.20-07.32.29:455][309]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.32.29:455][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.20-07.32.29:462][309]LogSlate: Window 'Untitled_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.20-07.32.29:564][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.20-07.32.29:565][309]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.32.29:626][309]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2019.10.20-07.32.29:644][310]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.20-07.32.31:402][513]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.20-07.32.31:417][513]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.32.31:417][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.20-07.32.31:417][513]PIE: New page: PIE session: RoomSpawnerTest (21 Oct 2019 5:32:31 am)
+[2019.10.20-07.32.31:418][513]LogPlayLevel: Creating play world package: /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest
+[2019.10.20-07.32.31:419][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000960s)
+[2019.10.20-07.32.31:419][513]LogAIModule: Creating AISystem for world RoomSpawnerTest
+[2019.10.20-07.32.31:419][513]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2019.10.20-07.32.31:419][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest to /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest.RoomSpawnerTest (0.001743s)
+[2019.10.20-07.32.31:444][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.10.20-07.32.31:453][513]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.20-07.32.31:460][513]LogInit: FAudioDevice initialized.
+[2019.10.20-07.32.31:469][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.20-07.32.31:502][513]LogLoad: Game class is 'GameModeBase'
+[2019.10.20-07.32.31:503][513]LogWorld: Bringing World /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest.RoomSpawnerTest up for play (max tick rate 0) at 2019.10.20-18.32.31
+[2019.10.20-07.32.31:503][513]LogWorld: Bringing up level for play took: 0.000498
+[2019.10.20-07.32.31:517][513]PIE: Play in editor start time for /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest -0.086
+[2019.10.20-07.32.31:518][513]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.32.31:778][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_114] 10
+[2019.10.20-07.32.31:778][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_114] Cannot spawn
+[2019.10.20-07.32.31:778][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_114] true
+[2019.10.20-07.32.31:778][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_115] 10
+[2019.10.20-07.32.31:778][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_115] Cannot spawn
+[2019.10.20-07.32.31:778][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_115] true
+[2019.10.20-07.32.31:778][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_116] 10
+[2019.10.20-07.32.31:778][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_116] Cannot spawn
+[2019.10.20-07.32.31:778][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_116] true
+[2019.10.20-07.32.31:778][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_117] 10
+[2019.10.20-07.32.31:778][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_117] Cannot spawn
+[2019.10.20-07.32.31:778][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_117] true
+[2019.10.20-07.32.31:778][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_118] 10
+[2019.10.20-07.32.31:778][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_118] Cannot spawn
+[2019.10.20-07.32.31:778][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_118] true
+[2019.10.20-07.32.31:778][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_119] 10
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_119] Cannot spawn
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_119] true
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_120] 10
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_120] Cannot spawn
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_120] true
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_121] 10
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_121] Cannot spawn
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_121] true
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_122] 10
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_122] Cannot spawn
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_122] true
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_123] 10
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_123] Cannot spawn
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_123] true
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_124] 10
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_124] Cannot spawn
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_124] true
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_125] 10
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_125] Cannot spawn
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_125] true
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_126] 10
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_126] Cannot spawn
+[2019.10.20-07.32.31:779][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_126] true
+[2019.10.20-07.32.31:780][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_127] 10
+[2019.10.20-07.32.31:780][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_127] Cannot spawn
+[2019.10.20-07.32.31:780][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_127] true
+[2019.10.20-07.32.31:780][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_128] 10
+[2019.10.20-07.32.31:780][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_128] Cannot spawn
+[2019.10.20-07.32.31:780][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_128] true
+[2019.10.20-07.32.31:780][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_129] 10
+[2019.10.20-07.32.31:780][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_129] Cannot spawn
+[2019.10.20-07.32.31:780][514]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_129] true
+[2019.10.20-07.32.34:992][615]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.32.34:992][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.20-07.32.34:999][615]LogSlate: Window 'Untitled_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.20-07.32.35:101][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.20-07.32.35:101][615]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.32.35:147][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.10.20-07.32.35:162][616]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.20-07.32.47:907][987]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.20-07.32.47:918][987]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.32.47:919][987]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.20-07.32.47:919][987]LogPlayLevel: [PlayLevel] Compiling RoomSpawner before play...
+[2019.10.20-07.32.48:079][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.48:082][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.48:087][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.48:087][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.48:087][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_16.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.48:089][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.48:094][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.48:094][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_10.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.48:105][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.48:108][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.48:115][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_21.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.48:115][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_23.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.48:115][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.48:119][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.48:123][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.48:123][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_RoomSpawner_C_CHILDACTOR_14.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.20-07.32.48:161][987]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.10.20-07.32.48:161][987]LogPlayLevel: PlayLevel: Blueprint regeneration took 242 ms (1 blueprints)
+[2019.10.20-07.32.48:161][987]PIE: New page: PIE session: RoomSpawnerTest (21 Oct 2019 5:32:48 am)
+[2019.10.20-07.32.48:162][987]LogPlayLevel: Creating play world package: /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest
+[2019.10.20-07.32.48:163][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000904s)
+[2019.10.20-07.32.48:163][987]LogAIModule: Creating AISystem for world RoomSpawnerTest
+[2019.10.20-07.32.48:163][987]LogPlayLevel: PIE: World Init took: (0.000418s)
+[2019.10.20-07.32.48:163][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest to /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest.RoomSpawnerTest (0.001439s)
+[2019.10.20-07.32.48:188][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.10.20-07.32.48:197][987]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.20-07.32.48:203][987]LogInit: FAudioDevice initialized.
+[2019.10.20-07.32.48:215][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.20-07.32.48:246][987]LogLoad: Game class is 'GameModeBase'
+[2019.10.20-07.32.48:247][987]LogWorld: Bringing World /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest.RoomSpawnerTest up for play (max tick rate 0) at 2019.10.20-18.32.48
+[2019.10.20-07.32.48:247][987]LogWorld: Bringing up level for play took: 0.000523
+[2019.10.20-07.32.48:261][987]PIE: Play in editor start time for /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest 0.658
+[2019.10.20-07.32.48:261][987]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_114] 10
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_114] Cannot spawn
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_114] true
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_115] 10
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_115] Cannot spawn
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_115] true
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_116] 10
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_116] Cannot spawn
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_116] true
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_117] 10
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_117] Cannot spawn
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_117] true
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_118] 10
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_118] Cannot spawn
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_118] true
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_119] 10
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_119] Cannot spawn
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_119] true
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_120] 10
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_120] Cannot spawn
+[2019.10.20-07.32.48:503][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_120] true
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_121] 10
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_121] Cannot spawn
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_121] true
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_122] 10
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_122] Cannot spawn
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_122] true
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_123] 10
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_123] Cannot spawn
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_123] true
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_124] 10
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_124] Cannot spawn
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_124] true
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_125] 10
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_125] Cannot spawn
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_125] true
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_126] 10
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_126] Cannot spawn
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_126] true
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_127] 10
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_127] Cannot spawn
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_127] true
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_128] 10
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_128] Cannot spawn
+[2019.10.20-07.32.48:504][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_128] true
+[2019.10.20-07.32.48:505][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_129] 10
+[2019.10.20-07.32.48:505][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_129] Cannot spawn
+[2019.10.20-07.32.48:505][988]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_129] true
+[2019.10.20-07.32.52:953][120]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.32.52:953][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.20-07.32.52:961][120]LogSlate: Window 'Untitled_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.20-07.32.53:082][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.20-07.32.53:082][120]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.32.53:130][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.10.20-07.32.53:146][121]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.20-07.32.54:026][225]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.20-07.32.54:039][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.32.54:039][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.20-07.32.54:039][225]PIE: New page: PIE session: RoomSpawnerTest (21 Oct 2019 5:32:54 am)
+[2019.10.20-07.32.54:040][225]LogPlayLevel: Creating play world package: /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest
+[2019.10.20-07.32.54:041][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000952s)
+[2019.10.20-07.32.54:041][225]LogAIModule: Creating AISystem for world RoomSpawnerTest
+[2019.10.20-07.32.54:041][225]LogPlayLevel: PIE: World Init took: (0.000492s)
+[2019.10.20-07.32.54:041][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest to /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest.RoomSpawnerTest (0.001571s)
+[2019.10.20-07.32.54:069][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.10.20-07.32.54:078][225]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.20-07.32.54:086][225]LogInit: FAudioDevice initialized.
+[2019.10.20-07.32.54:096][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.20-07.32.54:127][225]LogLoad: Game class is 'GameModeBase'
+[2019.10.20-07.32.54:128][225]LogWorld: Bringing World /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest.RoomSpawnerTest up for play (max tick rate 0) at 2019.10.20-18.32.54
+[2019.10.20-07.32.54:128][225]LogWorld: Bringing up level for play took: 0.000465
+[2019.10.20-07.32.54:142][225]PIE: Play in editor start time for /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest 0.539
+[2019.10.20-07.32.54:142][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.32.57:731][563]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_92] 10
+[2019.10.20-07.32.57:731][563]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_92] Cannot spawn
+[2019.10.20-07.32.57:731][563]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_92] true
+[2019.10.20-07.32.57:920][566]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_106] 10
+[2019.10.20-07.32.57:920][566]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_106] Cannot spawn
+[2019.10.20-07.32.57:920][566]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_106] true
+[2019.10.20-07.32.58:086][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_116] 10
+[2019.10.20-07.32.58:086][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_116] Cannot spawn
+[2019.10.20-07.32.58:086][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_116] true
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_117] 10
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_117] Cannot spawn
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_117] true
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_118] 10
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_118] Cannot spawn
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_118] true
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_119] 10
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_119] Cannot spawn
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_119] true
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_120] 10
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_120] Cannot spawn
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_120] true
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_121] 10
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_121] Cannot spawn
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_121] true
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_122] 10
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_122] Cannot spawn
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_122] true
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_123] 10
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_123] Cannot spawn
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_123] true
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_124] 10
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_124] Cannot spawn
+[2019.10.20-07.32.58:087][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_124] true
+[2019.10.20-07.32.58:088][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_125] 10
+[2019.10.20-07.32.58:088][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_125] Cannot spawn
+[2019.10.20-07.32.58:088][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_125] true
+[2019.10.20-07.32.58:088][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_126] 10
+[2019.10.20-07.32.58:088][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_126] Cannot spawn
+[2019.10.20-07.32.58:088][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_126] true
+[2019.10.20-07.32.58:088][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_127] 10
+[2019.10.20-07.32.58:088][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_127] Cannot spawn
+[2019.10.20-07.32.58:088][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_127] true
+[2019.10.20-07.32.58:088][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_128] 10
+[2019.10.20-07.32.58:088][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_128] Cannot spawn
+[2019.10.20-07.32.58:088][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_128] true
+[2019.10.20-07.32.58:088][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_129] 10
+[2019.10.20-07.32.58:088][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_129] Cannot spawn
+[2019.10.20-07.32.58:088][568]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_129] true
+[2019.10.20-07.32.58:900][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.32.58:900][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.20-07.32.58:907][592]LogSlate: Window 'Untitled_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.20-07.32.59:025][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.20-07.32.59:025][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.32.59:074][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.10.20-07.32.59:084][593]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.10.20-07.33.16:777][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-07.33.16:860][336]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.20-07.33.16:871][336]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.33.16:871][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.20-07.33.16:871][336]PIE: New page: PIE session: RoomSpawnerTest (21 Oct 2019 5:33:16 am)
+[2019.10.20-07.33.16:871][336]LogPlayLevel: Creating play world package: /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest
+[2019.10.20-07.33.16:872][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001211s)
+[2019.10.20-07.33.16:873][336]LogAIModule: Creating AISystem for world RoomSpawnerTest
+[2019.10.20-07.33.16:873][336]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2019.10.20-07.33.16:873][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest to /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest.RoomSpawnerTest (0.001906s)
+[2019.10.20-07.33.16:906][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.10.20-07.33.16:917][336]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.20-07.33.16:927][336]LogInit: FAudioDevice initialized.
+[2019.10.20-07.33.16:940][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.20-07.33.16:975][336]LogLoad: Game class is 'GameModeBase'
+[2019.10.20-07.33.16:976][336]LogWorld: Bringing World /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest.RoomSpawnerTest up for play (max tick rate 0) at 2019.10.20-18.33.16
+[2019.10.20-07.33.16:976][336]LogWorld: Bringing up level for play took: 0.000592
+[2019.10.20-07.33.16:990][336]PIE: Play in editor start time for /Game/Jordan/Levels/UEDPIE_0_RoomSpawnerTest -0.613
+[2019.10.20-07.33.16:991][336]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.33.22:188][811]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_114] 10
+[2019.10.20-07.33.22:188][811]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_114] Cannot spawn
+[2019.10.20-07.33.22:188][811]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_114] true
+[2019.10.20-07.33.22:188][811]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_115] 10
+[2019.10.20-07.33.22:188][811]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_115] Cannot spawn
+[2019.10.20-07.33.22:188][811]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_115] true
+[2019.10.20-07.33.22:188][811]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_116] 10
+[2019.10.20-07.33.22:188][811]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_116] Cannot spawn
+[2019.10.20-07.33.22:188][811]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_116] true
+[2019.10.20-07.33.22:188][811]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_117] 10
+[2019.10.20-07.33.22:188][811]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_117] Cannot spawn
+[2019.10.20-07.33.22:188][811]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_117] true
+[2019.10.20-07.33.22:189][811]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_118] 10
+[2019.10.20-07.33.22:189][811]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_118] Cannot spawn
+[2019.10.20-07.33.22:189][811]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_118] true
+[2019.10.20-07.33.22:189][811]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_119] 10
+[2019.10.20-07.33.22:189][811]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_119] Cannot spawn
+[2019.10.20-07.33.22:189][811]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_119] true
+[2019.10.20-07.33.22:351][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_120] 10
+[2019.10.20-07.33.22:351][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_120] Cannot spawn
+[2019.10.20-07.33.22:351][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_120] true
+[2019.10.20-07.33.22:351][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_121] 10
+[2019.10.20-07.33.22:351][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_121] Cannot spawn
+[2019.10.20-07.33.22:351][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_121] true
+[2019.10.20-07.33.22:351][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_122] 10
+[2019.10.20-07.33.22:351][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_122] Cannot spawn
+[2019.10.20-07.33.22:351][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_122] true
+[2019.10.20-07.33.22:351][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_123] 10
+[2019.10.20-07.33.22:351][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_123] Cannot spawn
+[2019.10.20-07.33.22:351][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_123] true
+[2019.10.20-07.33.22:352][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_124] 10
+[2019.10.20-07.33.22:352][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_124] Cannot spawn
+[2019.10.20-07.33.22:352][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_124] true
+[2019.10.20-07.33.22:352][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_125] 10
+[2019.10.20-07.33.22:352][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_125] Cannot spawn
+[2019.10.20-07.33.22:352][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_125] true
+[2019.10.20-07.33.22:352][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_126] 10
+[2019.10.20-07.33.22:352][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_126] Cannot spawn
+[2019.10.20-07.33.22:352][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_126] true
+[2019.10.20-07.33.22:352][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_127] 10
+[2019.10.20-07.33.22:352][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_127] Cannot spawn
+[2019.10.20-07.33.22:352][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_127] true
+[2019.10.20-07.33.22:352][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_128] 10
+[2019.10.20-07.33.22:352][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_128] Cannot spawn
+[2019.10.20-07.33.22:352][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_128] true
+[2019.10.20-07.33.22:352][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_129] 10
+[2019.10.20-07.33.22:352][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_129] Cannot spawn
+[2019.10.20-07.33.22:352][812]LogBlueprintUserMessages: [RoomSpawner_GEN_VARIABLE_RoomSpawner_C_CAT_129] true
+[2019.10.20-07.33.43:431][ 97]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.33.43:431][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.20-07.33.43:440][ 97]LogSlate: Window 'Untitled_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.20-07.33.43:781][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.20-07.33.43:782][ 97]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel' has LevelScriptBlueprint '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest' with GeneratedClass '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest_C' with ClassGeneratedBy '/Game/Jordan/Levels/RoomSpawnerTest.RoomSpawnerTest:PersistentLevel.RoomSpawnerTest'
+[2019.10.20-07.33.43:830][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.10.20-07.33.43:841][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.10.20-07.33.59:225][887]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Jordan/Blueprints/General/Player.Player
+[2019.10.20-07.35.05:234][840]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Jordan\Downloads\thunder_close04.wav)
+[2019.10.20-07.35.05:275][840]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Jordan\Downloads\thunder_distant_01.wav)
+[2019.10.20-07.35.05:288][840]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Jordan\Downloads\thunder_distant_02.wav)
+[2019.10.20-07.35.05:299][840]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Jordan\Downloads\thunder_distant_03.wav)
+[2019.10.20-07.35.05:307][840]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Jordan\Downloads\thunder_close01.wav)
+[2019.10.20-07.35.05:313][840]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Jordan\Downloads\thunder_close02.wav)
+[2019.10.20-07.35.05:323][840]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Jordan\Downloads\thunder_close03.wav)
+[2019.10.20-07.35.11:544][235]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave thunder_distant_01...
+[2019.10.20-07.35.11:764][235]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1900412 while cooking SoundWave /Game/Jordan/Sounds/thunder_distant_01.thunder_distant_01.
+[2019.10.20-07.35.32:610][683]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave thunder_close01...
+[2019.10.20-07.35.32:675][683]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 760388 while cooking SoundWave /Game/Jordan/Sounds/thunder_close01.thunder_close01.
+[2019.10.20-07.36.50:041][974]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::GreaterEqual_FloatFloat' [Element not found.]
+[2019.10.20-07.37.07:124][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-07.38.15:763][560]LogProperty: Warning: Illegal TEXT reference to a private object in external package (EdGraph /Game/Jordan/Blueprints/Rooms/RoomSpawner.RoomSpawner:RandomInt) from referencer (K2Node_MacroInstance /Game/Jordan/Blueprints/General/Thunder.Thunder:EventGraph.K2Node_MacroInstance_0).  Import failed...
+[2019.10.20-07.38.15:763][560]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:MacroGraph: unresolved reference to 'EdGraph'"/Game/Jordan/Blueprints/Rooms/RoomSpawner.RoomSpawner:RandomInt"',GraphBlueprint=Blueprint'"/Game/Jordan/Blueprints/Rooms/RoomSpawner.RoomSpawner"',GraphGuid=0004A060406A3913650ECA80C27CA970)'
+[2019.10.20-07.38.15:771][560]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.10.20-07.38.15:791][560]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.019 s
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: === Handled ensure: ===
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: 
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 475]
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'then' on node 'Branch' not reciprocally linked with pin 'Exec' on node 'Random Int'
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: Stack: 
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffd99140f85 UE4Editor-Engine.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffd980df0eb UE4Editor-Engine.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffd980deb02 UE4Editor-Engine.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffdaeac5bea UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffdaec79476 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffdaeab26d3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffdabb1f7c9 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffdabb1f5c6 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffdabaf9188 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffdafe471ea UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffdafe7743e UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffd974a1358 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffdafe11e66 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffdafe78dcd UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffdafe6f1ce UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffde21bb55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffde21aef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffde21bd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffde21ac090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffe012363ed USER32.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffe01235de2 USER32.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffde21be946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ff6d17e5d3e UE4Editor.exe!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ff6d17f554c UE4Editor.exe!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ff6d17f55ca UE4Editor.exe!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ff6d180316c UE4Editor.exe!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ff6d1805b8e UE4Editor.exe!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffe01177bd4 KERNEL32.DLL!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: [Callstack] 0x00007ffe020aced1 ntdll.dll!UnknownFunction []
+[2019.10.20-07.38.15:791][560]LogOutputDevice: Error: 
+[2019.10.20-07.38.15:792][560]LogStats:                SubmitErrorReport -  0.000 s
